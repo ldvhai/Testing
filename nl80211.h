@@ -1,7 +1,7 @@
 #ifndef __LINUX_NL80211_H
 #define __LINUX_NL80211_H
 /*
- * 802.11 netlink interface public header
+ * 802.11 netlink interface public header AAA BBB CCC
  *
  * Copyright 2006-2010 Johannes Berg <johannes@sipsolutions.net>
  * Copyright 2008 Michael Wu <flamingice@sourmilk.net>
